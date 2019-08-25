@@ -1,0 +1,7 @@
+digraph G {
+"camera" -> "tag_1"[label="Broadcaster: /apriltags2_ros_continuous_node\nAverage rate: 13.703 Hz\nMost recent transform: 1566193477.563 ( 0.135 sec old)\nBuffer length: 4.890 sec\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1566193477.697"[ shape=plaintext ] ;
+ }->"camera";
+}
