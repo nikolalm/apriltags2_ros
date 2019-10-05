@@ -34,4 +34,5 @@
   - <https://github.com/shijiwensjw/apriltags2_ros>
 
   - 参数设置
+    https://blog.csdn.net/weixin_43331257/article/details/83271761
     
